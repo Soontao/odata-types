@@ -21,7 +21,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "luxon": "^1.26.0"
+    "luxon": "^1.28.1"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
